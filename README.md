@@ -1,5 +1,13 @@
 # SPiDER_TM_AI
 SPiDER_TM_AI 정리
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/064dc765-aa92-4532-88f0-4bae6876b4c9)
 SPiDER TM AI Edition의 메뉴는 SPiDER TM 5.0의 인공지능 분석이라는 이름으로 함께 있습니다.
 
